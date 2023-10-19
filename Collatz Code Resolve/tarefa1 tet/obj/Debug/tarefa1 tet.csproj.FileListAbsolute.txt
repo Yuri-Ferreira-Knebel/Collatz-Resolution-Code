@@ -1,0 +1,7 @@
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\bin\Debug\tarefa1 tet.exe.config
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\bin\Debug\tarefa1 tet.exe
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\bin\Debug\tarefa1 tet.pdb
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\obj\Debug\tarefa1 tet.csproj.AssemblyReference.cache
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\obj\Debug\tarefa1 tet.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\obj\Debug\tarefa1 tet.exe
+C:\Users\Yuri\source\repos\tarefa1 tet\tarefa1 tet\obj\Debug\tarefa1 tet.pdb
